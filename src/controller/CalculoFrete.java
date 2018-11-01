@@ -15,7 +15,6 @@ public class CalculoFrete {
 		this.peso = peso;
 		this.dimensao = dimensao;
 		this.tipo = tipo;
-		this.fatormult = fatormult;
 	}
 
 	public double calcularFrete() {
